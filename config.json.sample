@@ -1,0 +1,5 @@
+{
+	"AccessKey": "",//阿里云AccessKey
+	"AccessKeySecret": "",//阿里云AccessKeySecret
+	"Domain": "www.plin.cc"//解析的域名
+}
